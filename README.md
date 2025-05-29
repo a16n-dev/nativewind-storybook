@@ -2,20 +2,6 @@
 
 This is a minimal sample project that combines Nativewind v4 with Storybook v8 (Vite).
 
-Currently this doesn't work when running a proper build - `className` is not correctly being transformed to `class` attribute on React Native components. It's not clear where in the build process things are going wrong.
-
-## Running the project
-```bash
-# Install dependencies
-pnpm i
-
-# Start the dev server
-pnpm run dev
-
-# Build and serve the project
-pnpm run build && pnpm run serve
-```
-
 ## The problem
 
 If we have this story:
@@ -38,3 +24,15 @@ While after a build, it looks like this:
 
 <img width="130" alt="image" src="https://github.com/user-attachments/assets/cc83e812-e779-4698-9c0f-ca10cf8977a0" />
 
+## Running the project
+Try it for yourself:
+```bash
+# Install dependencies
+pnpm i
+
+# Start the dev server
+pnpm run dev
+
+# Build and serve the project
+pnpm run build && pnpm run serve
+```
