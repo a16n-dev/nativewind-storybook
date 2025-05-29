@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2022", "dom", "dom.iterable"],
+    "jsx": "react-jsx",
+    "paths": {
+      "@clove/core/*": ["../../packages/core/src/*"]
+    },
+    "tsBuildInfoFile": "../../.cache/tsbuildinfo.storybook.json"
+  },
+  "include": [".storybook", "nativewind-env.d.ts", "stories"],
+  "exclude": ["node_modules"]
+}
