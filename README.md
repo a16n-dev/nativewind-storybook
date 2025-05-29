@@ -31,8 +31,10 @@ If we have this story:
 ```
 
 and we run it locally, it looks like this:
+
 <img width="167" alt="image" src="https://github.com/user-attachments/assets/71d43d37-e500-427a-bd6a-20c5cfb66456" />
 
 While after a build, it looks like this:
+
 <img width="130" alt="image" src="https://github.com/user-attachments/assets/cc83e812-e779-4698-9c0f-ca10cf8977a0" />
 
