@@ -1,31 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@font-face {
-  font-family: 'Acaraje';
-  src: url('./fonts/FontRegular.woff2') format('woff2');
-  font-weight: 400; /* Regular */
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Acaraje';
-  src: url('./fonts/FontMedium.woff2') format('woff2');
-  font-weight: 500; /* Medium */
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Acaraje';
-  src: url('./fonts/FontSemibold.woff2') format('woff2');
-  font-weight: 600; /* Semibold */
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Acaraje';
-  src: url('./fonts/FontBold.woff2') format('woff2');
-  font-weight: 700; /* Bold */
-  font-style: normal;
-}
