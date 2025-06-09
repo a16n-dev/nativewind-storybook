@@ -1,6 +1,6 @@
 # Nativewind + Storybook
 
-This is a minimal sample project that combines Nativewind v4 with Storybook v8 (Vite).
+This is a minimal sample project that combines Nativewind v4 (Tailwind 3) with Storybook v8 (Vite).
 
 ## The problem
 
